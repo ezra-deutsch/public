@@ -1,4 +1,4 @@
-./main.sh
+#./main.sh
 # hello world
 
 
